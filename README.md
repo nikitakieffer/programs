@@ -12,3 +12,11 @@ Some programs that I'm coding to learn to program
 * cuantos elementos hay que estén a distancia uno de su elemento anterior?
 * cual es la longitud de la subsecuencia creciente más larga?
 * cuantos elementos son mayores que su anterior y su siguiente?
+
+## DONE:
+
+* hay mas pares o mas impares
+* contar ceros
+* capicua
+* mayor elemento
+* iguales consecutivos
